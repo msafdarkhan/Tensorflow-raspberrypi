@@ -13,4 +13,4 @@
    - tensorflow-1.13.1-cp35-none-linux_aarch64.whl
 ________
 ## To Install this bineries
-..1. click
+1. click
