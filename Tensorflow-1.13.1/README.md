@@ -11,3 +11,6 @@
 * ### Odroid-c2
    - tensorflow-1.13.1-cp27-none-linux_aarch64.whl
    - tensorflow-1.13.1-cp35-none-linux_aarch64.whl
+________
+## To Install this bineries
+..1. click
