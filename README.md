@@ -44,3 +44,4 @@ that works if you have downloaded whl file for further wheel installetion follow
 ```
 ```1.13.1```
 - if that gave a output like this it means that tensorflow is installed properly
+
