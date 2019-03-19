@@ -1,9 +1,12 @@
-# Tensorflow-raspberrypi
+# Tensorflow for raspberry pi and Odroid
 
 #### There are compiled bineries of tensorflow for all raspberry pi  versions
 
 #### all binaries was compiled in debian stretch
+``` By ```
 
+| [Safdar Khan](https://www.safdarkhan.cf) |
+| ---------------------------------------- |
 
 Raspberry pi one/zero with openblas
 tensorflow-1.13.1-cp27-none-linux_armv6l.whl
