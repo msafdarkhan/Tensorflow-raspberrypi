@@ -21,5 +21,3 @@ ________
    - tensorflow-on-arm-1.13.1.zip
    
 ________
-## To Install this bineries
-1. click
